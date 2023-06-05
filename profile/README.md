@@ -1,16 +1,16 @@
-🏢 **Welcome to Exact Realty!**
+# 🏢 **Welcome to Exact Realty!**
 
 At Exact Realty, we're revolutionising the world of technology and digital transformation. We're on a mission to empower organisations to reach new heights
 through bespoke solutions and expert consultancy. 💡💪
 
-ℹ️ **About Us**
+## ℹ️ **About Us**
 Exact Realty are a trailblazer in the field of technology, providing
 cutting-edge solutions and unparalleled expertise. Since our launch in 2020,
 we've been dedicated to making the journey of digital transformation an exciting
 one for our clients. Our team of specialists is constantly exploring innovative
 technologies to bring value to our clients and help them thrive. 🌟
 
-✨ **Open Source Projects**
+## ✨ **Open Source Projects**
 Explore some of our open-source projects below and join us on this coding adventure:
 
 1. 🌐 [ts-hydra-rfc8693](https://github.com/Exact-Realty/ts-hydra-rfc8693):
@@ -33,7 +33,7 @@ Explore some of our open-source projects below and join us on this coding advent
 
 And many more incredible projects are waiting for you to explore! 🚀
 
-🔥 **What do we do?**
+## 👷 **What do we do?**
 
 1. **Business Automation** 🤖: Streamline your operations and boost productivity
   by automating repetitive tasks like accounting, HR, and marketing.
@@ -47,7 +47,7 @@ data is safe.
 audience with our custom content delivery strategies tailored to your unique
 needs.
 
-🌍 **Connect with Us**
+## 📠 **Connect with Us**
 Ready to take your business to new heights? Let's collaborate and achieve your goals together! Get in touch with us today to schedule a consultation. 📞📧
 
 We're excited to have you explore our open-source projects, contribute to the community, and witness the power of technology in action! Join us on this incredible journey and let's innovate together. 💻✨
